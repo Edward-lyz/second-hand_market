@@ -1,0 +1,558 @@
+DEBUG task-1 druid.sql.Connection - {conn-10001,procId-4876} connected
+DEBUG task-1 druid.sql.Connection - {conn-10002,procId-4877} connected
+DEBUG task-1 druid.sql.Connection - {conn-10003,procId-4878} connected
+DEBUG task-1 druid.sql.Connection - {conn-10004,procId-4879} connected
+DEBUG task-1 druid.sql.Connection - {conn-10005,procId-4880} connected
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-connect
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-connect
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG restartedMain druid.sql.Connection - {conn-10001} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10002} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10003} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10004} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10005} closed
+DEBUG task-1 druid.sql.Connection - {conn-10001,procId-4881} connected
+DEBUG task-1 druid.sql.Connection - {conn-10002,procId-4882} connected
+DEBUG task-1 druid.sql.Connection - {conn-10003,procId-4883} connected
+DEBUG task-1 druid.sql.Connection - {conn-10004,procId-4884} connected
+DEBUG task-1 druid.sql.Connection - {conn-10005,procId-4885} connected
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-connect
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-connect
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG restartedMain druid.sql.Connection - {conn-10001} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10002} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10003} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10004} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10005} closed
+DEBUG task-1 druid.sql.Connection - {conn-10001,procId-4889} connected
+DEBUG task-1 druid.sql.Connection - {conn-10002,procId-4890} connected
+DEBUG task-1 druid.sql.Connection - {conn-10003,procId-4891} connected
+DEBUG task-1 druid.sql.Connection - {conn-10004,procId-4892} connected
+DEBUG task-1 druid.sql.Connection - {conn-10005,procId-4893} connected
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-connect
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-connect
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG restartedMain druid.sql.Connection - {conn-10001} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10002} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10003} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10004} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10005} closed
+DEBUG task-1 druid.sql.Connection - {conn-10001,procId-4895} connected
+DEBUG task-1 druid.sql.Connection - {conn-10002,procId-4896} connected
+DEBUG task-1 druid.sql.Connection - {conn-10003,procId-4897} connected
+DEBUG task-1 druid.sql.Connection - {conn-10004,procId-4898} connected
+DEBUG task-1 druid.sql.Connection - {conn-10005,procId-4899} connected
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-connect
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-connect
+DEBUG task-1 druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG restartedMain druid.sql.Connection - {conn-10001} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10002} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10003} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10004} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10005} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10001,procId-4900} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10002,procId-4901} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10003,procId-4902} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10004,procId-4903} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10005,procId-4904} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10005} pool-connect
+DEBUG restartedMain druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG restartedMain druid.sql.Connection - {conn-10005} pool-connect
+DEBUG restartedMain druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG restartedMain druid.sql.Connection - {conn-10001} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10002} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10003} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10004} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10005} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10001,procId-4905} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10002,procId-4906} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10003,procId-4907} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10004,procId-4908} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10005,procId-4909} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10005} pool-connect
+DEBUG restartedMain druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG restartedMain druid.sql.Connection - {conn-10005} pool-connect
+DEBUG restartedMain druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG restartedMain druid.sql.Connection - {conn-10001} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10002} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10003} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10004} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10005} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10001,procId-4910} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10002,procId-4911} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10003,procId-4912} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10004,procId-4913} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10005,procId-4914} connected
+DEBUG restartedMain druid.sql.Connection - {conn-10005} pool-connect
+DEBUG restartedMain druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG restartedMain druid.sql.Connection - {conn-10005} pool-connect
+DEBUG restartedMain druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG restartedMain druid.sql.Connection - {conn-10001} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10002} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10003} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10004} closed
+DEBUG restartedMain druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4915} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4916} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4917} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4918} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4919} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4920} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4921} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4922} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4923} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4924} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4925} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4926} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4927} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4928} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4929} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4930} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4931} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4932} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4933} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4934} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4935} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4936} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4937} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4938} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4939} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4940} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4941} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4942} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4943} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4944} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4950} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4951} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4952} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4953} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4954} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4955} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4956} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4957} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4958} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4959} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4960} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4961} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4962} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4963} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4964} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4965} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4966} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4967} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4968} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4969} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4970} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4971} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4972} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4973} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4974} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4975} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4976} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4977} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4978} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4979} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4983} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4984} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4985} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4986} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4987} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4988} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4989} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4990} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4991} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4992} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4993} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4994} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-4995} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-4996} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-4997} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-4998} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-4999} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-5000} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-5001} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-5002} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10001} closed
+DEBUG main druid.sql.Connection - {conn-10002} closed
+DEBUG main druid.sql.Connection - {conn-10003} closed
+DEBUG main druid.sql.Connection - {conn-10004} closed
+DEBUG main druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-5003} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-5004} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-5005} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-5006} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-5007} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG http-nio-10086-exec-1 druid.sql.Connection - {conn-10005} pool-connect
+DEBUG http-nio-10086-exec-1 druid.sql.Statement - {conn-10005, pstmt-20000} created. select user0_.id as id1_1_, user0_.create_time as create_t2_1_, user0_.mobile as mobile3_1_, user0_.password as password4_1_, user0_.school as school5_1_, user0_.school_number as school_n6_1_, user0_.state as state7_1_, user0_.update_time as update_t8_1_, user0_.username as username9_1_ from user user0_ where user0_.mobile=?
+DEBUG http-nio-10086-exec-1 druid.sql.Statement - {conn-10005, pstmt-20000} Parameters : [11111111111]
+DEBUG http-nio-10086-exec-1 druid.sql.Statement - {conn-10005, pstmt-20000} Types : [VARCHAR]
+DEBUG http-nio-10086-exec-1 druid.sql.Statement - {conn-10005, pstmt-20000, rs-50000} query executed. 46.718734 millis. select user0_.id as id1_1_, user0_.create_time as create_t2_1_, user0_.mobile as mobile3_1_, user0_.password as password4_1_, user0_.school as school5_1_, user0_.school_number as school_n6_1_, user0_.state as state7_1_, user0_.update_time as update_t8_1_, user0_.username as username9_1_ from user user0_ where user0_.mobile=?
+DEBUG http-nio-10086-exec-1 druid.sql.ResultSet - {conn-10005, pstmt-20000, rs-50000} open
+DEBUG http-nio-10086-exec-1 druid.sql.ResultSet - {conn-10005, pstmt-20000, rs-50000} Header: [id, create_time, mobile, password, school, school_number, state, update_time, username]
+DEBUG http-nio-10086-exec-1 druid.sql.ResultSet - {conn-10005, pstmt-20000, rs-50000} closed
+DEBUG http-nio-10086-exec-1 druid.sql.Statement - {conn-10005, pstmt-20000} clearParameters. 
+DEBUG http-nio-10086-exec-1 druid.sql.Connection - {conn-10005} setAutoCommit false
+DEBUG http-nio-10086-exec-1 druid.sql.Statement - {conn-10005, pstmt-20001} created. insert into user (create_time, mobile, password, school, school_number, state, update_time, username) values (?, ?, ?, ?, ?, ?, ?, ?)
+DEBUG http-nio-10086-exec-1 druid.sql.Statement - {conn-10005, pstmt-20001} Parameters : [2020-06-11 13:12:38.231, 11111111111, 1111111111111111, 华南理工大学, 222222222222, 1, null, licona]
+DEBUG http-nio-10086-exec-1 druid.sql.Statement - {conn-10005, pstmt-20001} Types : [TIMESTAMP, VARCHAR, VARCHAR, VARCHAR, VARCHAR, INTEGER, TIMESTAMP, VARCHAR]
+ERROR http-nio-10086-exec-1 druid.sql.Statement - {conn-10005, pstmt-20001} execute error. insert into user (create_time, mobile, password, school, school_number, state, update_time, username) values (?, ?, ?, ?, ?, ?, ?, ?)
+java.sql.SQLIntegrityConstraintViolationException: Column 'update_time' cannot be null
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1092)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1040)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1347)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:1025)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_executeUpdate(FilterChainImpl.java:3253)
+	at com.alibaba.druid.filter.FilterAdapter.preparedStatement_executeUpdate(FilterAdapter.java:1092)
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_executeUpdate(FilterEventAdapter.java:491)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_executeUpdate(FilterChainImpl.java:3251)
+	at com.alibaba.druid.wall.WallFilter.preparedStatement_executeUpdate(WallFilter.java:662)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_executeUpdate(FilterChainImpl.java:3251)
+	at com.alibaba.druid.filter.FilterAdapter.preparedStatement_executeUpdate(FilterAdapter.java:1092)
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_executeUpdate(FilterEventAdapter.java:491)
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_executeUpdate(FilterChainImpl.java:3251)
+	at com.alibaba.druid.proxy.jdbc.PreparedStatementProxyImpl.executeUpdate(PreparedStatementProxyImpl.java:194)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.executeUpdate(DruidPooledPreparedStatement.java:255)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:197)
+	at org.hibernate.dialect.identity.GetGeneratedKeysDelegate.executeAndExtract(GetGeneratedKeysDelegate.java:57)
+	at org.hibernate.id.insert.AbstractReturningDelegate.performInsert(AbstractReturningDelegate.java:43)
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3133)
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3737)
+	at org.hibernate.action.internal.EntityIdentityInsertAction.execute(EntityIdentityInsertAction.java:84)
+	at org.hibernate.engine.spi.ActionQueue.execute(ActionQueue.java:645)
+	at org.hibernate.engine.spi.ActionQueue.addResolvedEntityInsertAction(ActionQueue.java:282)
+	at org.hibernate.engine.spi.ActionQueue.addInsertAction(ActionQueue.java:263)
+	at org.hibernate.engine.spi.ActionQueue.addAction(ActionQueue.java:317)
+	at org.hibernate.event.internal.AbstractSaveEventListener.addInsertAction(AbstractSaveEventListener.java:330)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSaveOrReplicate(AbstractSaveEventListener.java:287)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSave(AbstractSaveEventListener.java:193)
+	at org.hibernate.event.internal.AbstractSaveEventListener.saveWithGeneratedId(AbstractSaveEventListener.java:123)
+	at org.hibernate.event.internal.DefaultPersistEventListener.entityIsTransient(DefaultPersistEventListener.java:185)
+	at org.hibernate.event.internal.DefaultPersistEventListener.onPersist(DefaultPersistEventListener.java:128)
+	at org.hibernate.event.internal.DefaultPersistEventListener.onPersist(DefaultPersistEventListener.java:55)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:102)
+	at org.hibernate.internal.SessionImpl.firePersist(SessionImpl.java:710)
+	at org.hibernate.internal.SessionImpl.persist(SessionImpl.java:696)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.orm.jpa.ExtendedEntityManagerCreator$ExtendedEntityManagerInvocationHandler.invoke(ExtendedEntityManagerCreator.java:366)
+	at com.sun.proxy.$Proxy81.persist(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.orm.jpa.SharedEntityManagerCreator$SharedEntityManagerInvocationHandler.invoke(SharedEntityManagerCreator.java:314)
+	at com.sun.proxy.$Proxy81.persist(Unknown Source)
+	at org.springframework.data.jpa.repository.support.SimpleJpaRepository.save(SimpleJpaRepository.java:554)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.data.repository.core.support.RepositoryComposition$RepositoryFragments.invoke(RepositoryComposition.java:371)
+	at org.springframework.data.repository.core.support.RepositoryComposition.invoke(RepositoryComposition.java:204)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$ImplementationMethodExecutionInterceptor.invoke(RepositoryFactorySupport.java:657)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:621)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:605)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:80)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:366)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:118)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:178)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:95)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy88.save(Unknown Source)
+	at com.edwardlyz.controller.UserController.register(UserController.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.druid.support.http.WebStatFilter.doFilter(WebStatFilter.java:124)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1594)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+DEBUG http-nio-10086-exec-1 druid.sql.Statement - {conn-10005, pstmt-20001} clearParameters. 
+DEBUG http-nio-10086-exec-1 druid.sql.Statement - {conn-10005, pstmt-20001} closed
+DEBUG http-nio-10086-exec-1 druid.sql.Connection - {conn 10005} rollback
+DEBUG http-nio-10086-exec-1 druid.sql.Connection - {conn-10005} setAutoCommit true
+DEBUG http-nio-10086-exec-1 druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG SpringContextShutdownHook druid.sql.Connection - {conn-10001} closed
+DEBUG SpringContextShutdownHook druid.sql.Connection - {conn-10002} closed
+DEBUG SpringContextShutdownHook druid.sql.Connection - {conn-10003} closed
+DEBUG SpringContextShutdownHook druid.sql.Connection - {conn-10004} closed
+DEBUG SpringContextShutdownHook druid.sql.Statement - {conn-10005, pstmt-20000} closed
+DEBUG SpringContextShutdownHook druid.sql.Connection - {conn-10005} closed
+DEBUG main druid.sql.Connection - {conn-10001,procId-5016} connected
+DEBUG main druid.sql.Connection - {conn-10002,procId-5017} connected
+DEBUG main druid.sql.Connection - {conn-10003,procId-5018} connected
+DEBUG main druid.sql.Connection - {conn-10004,procId-5019} connected
+DEBUG main druid.sql.Connection - {conn-10005,procId-5020} connected
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG main druid.sql.Connection - {conn-10005} pool-connect
+DEBUG main druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG http-nio-10086-exec-2 druid.sql.Connection - {conn-10005} pool-connect
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20000} created. select user0_.id as id1_1_, user0_.create_time as create_t2_1_, user0_.mobile as mobile3_1_, user0_.password as password4_1_, user0_.school as school5_1_, user0_.school_number as school_n6_1_, user0_.state as state7_1_, user0_.update_time as update_t8_1_, user0_.username as username9_1_ from user user0_ where user0_.mobile=?
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20000} Parameters : [11111111111]
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20000} Types : [VARCHAR]
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20000, rs-50000} query executed. 51.890333 millis. select user0_.id as id1_1_, user0_.create_time as create_t2_1_, user0_.mobile as mobile3_1_, user0_.password as password4_1_, user0_.school as school5_1_, user0_.school_number as school_n6_1_, user0_.state as state7_1_, user0_.update_time as update_t8_1_, user0_.username as username9_1_ from user user0_ where user0_.mobile=?
+DEBUG http-nio-10086-exec-2 druid.sql.ResultSet - {conn-10005, pstmt-20000, rs-50000} open
+DEBUG http-nio-10086-exec-2 druid.sql.ResultSet - {conn-10005, pstmt-20000, rs-50000} Header: [id, create_time, mobile, password, school, school_number, state, update_time, username]
+DEBUG http-nio-10086-exec-2 druid.sql.ResultSet - {conn-10005, pstmt-20000, rs-50000} closed
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20000} clearParameters. 
+DEBUG http-nio-10086-exec-2 druid.sql.Connection - {conn-10005} setAutoCommit false
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20001} created. insert into user (create_time, mobile, password, school, school_number, state, update_time, username) values (?, ?, ?, ?, ?, ?, ?, ?)
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20001} Parameters : [2020-06-11 13:15:04.8, 11111111111, 1111111111111111, 华南理工大学, 222222222222, 1, 2020-06-11 13:15:04.8, licona]
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20001} Types : [TIMESTAMP, VARCHAR, VARCHAR, VARCHAR, VARCHAR, INTEGER, TIMESTAMP, VARCHAR]
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20001} update executed. effort 1. 45.685442 millis. insert into user (create_time, mobile, password, school, school_number, state, update_time, username) values (?, ?, ?, ?, ?, ?, ?, ?)
+DEBUG http-nio-10086-exec-2 druid.sql.ResultSet - {conn-10005, pstmt-20001, rs-50001} open
+DEBUG http-nio-10086-exec-2 druid.sql.ResultSet - {conn-10005, pstmt-20001, rs-50001} Header: [GENERATED_KEY]
+DEBUG http-nio-10086-exec-2 druid.sql.ResultSet - {conn-10005, pstmt-20001, rs-50001} Result: [6]
+DEBUG http-nio-10086-exec-2 druid.sql.ResultSet - {conn-10005, pstmt-20001, rs-50001} closed
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20001} clearParameters. 
+DEBUG http-nio-10086-exec-2 druid.sql.Connection - {conn-10005} commited
+DEBUG http-nio-10086-exec-2 druid.sql.Connection - {conn-10005} setAutoCommit true
+DEBUG http-nio-10086-exec-2 druid.sql.Connection - {conn-10005} setAutoCommit false
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20002} created. insert into head_portrait (head_path, uid) values (?, ?)
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20002} Parameters : [default.png, 6]
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20002} Types : [VARCHAR, INTEGER]
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20002} update executed. effort 1. 46.171605 millis. insert into head_portrait (head_path, uid) values (?, ?)
+DEBUG http-nio-10086-exec-2 druid.sql.ResultSet - {conn-10005, pstmt-20002, rs-50002} open
+DEBUG http-nio-10086-exec-2 druid.sql.ResultSet - {conn-10005, pstmt-20002, rs-50002} Header: [GENERATED_KEY]
+DEBUG http-nio-10086-exec-2 druid.sql.ResultSet - {conn-10005, pstmt-20002, rs-50002} Result: [1]
+DEBUG http-nio-10086-exec-2 druid.sql.ResultSet - {conn-10005, pstmt-20002, rs-50002} closed
+DEBUG http-nio-10086-exec-2 druid.sql.Statement - {conn-10005, pstmt-20002} clearParameters. 
+DEBUG http-nio-10086-exec-2 druid.sql.Connection - {conn-10005} commited
+DEBUG http-nio-10086-exec-2 druid.sql.Connection - {conn-10005} setAutoCommit true
+DEBUG http-nio-10086-exec-2 druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG http-nio-10086-exec-3 druid.sql.Connection - {conn-10005} pool-connect
+DEBUG http-nio-10086-exec-3 druid.sql.Statement - {conn-10005, pstmt-20000} Parameters : [11111111111]
+DEBUG http-nio-10086-exec-3 druid.sql.Statement - {conn-10005, pstmt-20000} Types : [VARCHAR]
+DEBUG http-nio-10086-exec-3 druid.sql.Statement - {conn-10005, pstmt-20000, rs-50003} query executed. 45.868955 millis. select user0_.id as id1_1_, user0_.create_time as create_t2_1_, user0_.mobile as mobile3_1_, user0_.password as password4_1_, user0_.school as school5_1_, user0_.school_number as school_n6_1_, user0_.state as state7_1_, user0_.update_time as update_t8_1_, user0_.username as username9_1_ from user user0_ where user0_.mobile=?
+DEBUG http-nio-10086-exec-3 druid.sql.ResultSet - {conn-10005, pstmt-20000, rs-50003} open
+DEBUG http-nio-10086-exec-3 druid.sql.ResultSet - {conn-10005, pstmt-20000, rs-50003} Header: [id, create_time, mobile, password, school, school_number, state, update_time, username]
+DEBUG http-nio-10086-exec-3 druid.sql.ResultSet - {conn-10005, pstmt-20000, rs-50003} Result: [6, 2020-06-11 13:15:05.0, 11111111111, 1111111111111111, 华南理工大学, 222222222222, 1, 2020-06-11 13:15:05.0, licona]
+DEBUG http-nio-10086-exec-3 druid.sql.ResultSet - {conn-10005, pstmt-20000, rs-50003} closed
+DEBUG http-nio-10086-exec-3 druid.sql.Statement - {conn-10005, pstmt-20000} clearParameters. 
+DEBUG http-nio-10086-exec-3 druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG http-nio-10086-exec-4 druid.sql.Connection - {conn-10005} pool-connect
+DEBUG http-nio-10086-exec-4 druid.sql.Statement - {conn-10005, pstmt-20000} Parameters : [11111111111]
+DEBUG http-nio-10086-exec-4 druid.sql.Statement - {conn-10005, pstmt-20000} Types : [VARCHAR]
+DEBUG http-nio-10086-exec-4 druid.sql.Statement - {conn-10005, pstmt-20000, rs-50004} query executed. 46.33045 millis. select user0_.id as id1_1_, user0_.create_time as create_t2_1_, user0_.mobile as mobile3_1_, user0_.password as password4_1_, user0_.school as school5_1_, user0_.school_number as school_n6_1_, user0_.state as state7_1_, user0_.update_time as update_t8_1_, user0_.username as username9_1_ from user user0_ where user0_.mobile=?
+DEBUG http-nio-10086-exec-4 druid.sql.ResultSet - {conn-10005, pstmt-20000, rs-50004} open
+DEBUG http-nio-10086-exec-4 druid.sql.ResultSet - {conn-10005, pstmt-20000, rs-50004} Header: [id, create_time, mobile, password, school, school_number, state, update_time, username]
+DEBUG http-nio-10086-exec-4 druid.sql.ResultSet - {conn-10005, pstmt-20000, rs-50004} Result: [6, 2020-06-11 13:15:05.0, 11111111111, 1111111111111111, 华南理工大学, 222222222222, 1, 2020-06-11 13:15:05.0, licona]
+DEBUG http-nio-10086-exec-4 druid.sql.ResultSet - {conn-10005, pstmt-20000, rs-50004} closed
+DEBUG http-nio-10086-exec-4 druid.sql.Statement - {conn-10005, pstmt-20000} clearParameters. 
+DEBUG http-nio-10086-exec-4 druid.sql.Connection - {conn-10005} pool-recycle
+DEBUG SpringContextShutdownHook druid.sql.Connection - {conn-10001} closed
+DEBUG SpringContextShutdownHook druid.sql.Connection - {conn-10002} closed
+DEBUG SpringContextShutdownHook druid.sql.Connection - {conn-10003} closed
+DEBUG SpringContextShutdownHook druid.sql.Connection - {conn-10004} closed
+DEBUG SpringContextShutdownHook druid.sql.Statement - {conn-10005, pstmt-20001} closed
+DEBUG SpringContextShutdownHook druid.sql.Statement - {conn-10005, pstmt-20002} closed
+DEBUG SpringContextShutdownHook druid.sql.Statement - {conn-10005, pstmt-20000} closed
+DEBUG SpringContextShutdownHook druid.sql.Connection - {conn-10005} closed
